@@ -1,0 +1,27 @@
+/* Empty. Add your own CSS if you like */
+#calculate-section .item-input {
+  padding: 0;
+}
+#calculate-section .input-label {
+  background: #f5f5f5;
+  width: 20%;
+  padding: 10px 15px;;
+}
+#calculate-section .units {
+  background: #f1f1f1;
+  width: 20%;
+  padding: 10px;
+}
+#calculate-section .item-input input[type="text"] {
+  padding-left: 10px;
+}
+.center {
+  width: 100%;
+  text-align: center;
+}
+.range input {
+  background: linear-gradient(to right, #886aea 0%, #886aea 100%);
+  background-size: 99% 3px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
